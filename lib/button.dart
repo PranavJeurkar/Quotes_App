@@ -1,24 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:quotes/main.dart';
 
-
-class Motivational extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-        appBar: AppBar(
-        title: const Text('Motivational Quotes'),
-    ),
-      body: ListView(
-        children: <Widget>[
-          Image.asset('assets/space.png'),
-          Image.asset('assets/friends.png'),
-          Image.asset('assets/space.png'),
-        ],
-      ),
-    );
-  }
-}
 
 
 //class _MotivatinalState extends State<Motivatinal> {
