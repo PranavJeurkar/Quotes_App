@@ -5,7 +5,7 @@ class Fitness extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Fitness Quotes'),
+        title: const Text(''),
       ),
       body: ListView(
         children: <Widget>[
