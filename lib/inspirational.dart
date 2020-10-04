@@ -5,7 +5,7 @@ class Inspirational extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text(''),
+        title: const Text('Inspirational'),
       ),
       body: ListView(
         children: <Widget>[
