@@ -5,7 +5,7 @@ class Space extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text(''),
+        title: const Text('Space'),
       ),
       body: ListView(
         children: <Widget>[
