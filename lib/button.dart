@@ -11,7 +11,7 @@ class Motivational extends StatelessWidget {
     ),
       body: ListView(
         children: <Widget>[
-          Image.network('https://cdn5.vectorstock.com/i/1000x1000/05/89/inspirational-and-motivational-quotes-vector-4830589.jpg'),
+          Image.network(''),
           Image.network('https://images-na.ssl-images-amazon.com/images/I/618mV3ssooL._SL1000_.jpg'),
           Image.network('https://images-na.ssl-images-amazon.com/images/I/51HMGx0ITjL._SX258_BO1,204,203,200_.jpg'),
           Image.network('https://cdn5.vectorstock.com/i/1000x1000/06/04/inspirational-and-motivational-quotes-vector-4830604.jpg'),
