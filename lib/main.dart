@@ -35,6 +35,8 @@ class _MyHomePageState extends State<MyHomePage> {
     'https://equipmentarea-4981.kxcdn.com/wp-content/uploads/2017/05/734-x-1332-px-Long-Pins-v3-1.png',
     'https://s2982.pcdn.co/wp-content/uploads/2018/04/25-quotes-about-friendship-1.jpg-1.jpg',
     'https://yourpositiveoasis.com/wp-content/uploads/2020/04/IMG_4062.png',
+    'https://www.keepinspiring.me/wp-content/uploads/2019/06/space-quotes-header-1.jpg',
+
   ];
 
   @override
