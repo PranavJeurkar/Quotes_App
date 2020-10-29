@@ -8,7 +8,7 @@ class APJ extends StatelessWidget {
       ),
       body: ListView(
         children: <Widget>[
-          Image.network('https://www.yourselfquotes.com/wp-content/uploads/APJ-Abdul-Kalam-Quotes14.png'),
+          
           Image.network('https://static.india.com/wp-content/uploads/2017/07/Untitled-collage-25.jpg?impolicy=Medium_Resize&w=1200&h=800'),
           Image.network('https://www.theeducationmagazine.com/wp-content/uploads/2020/03/15.jpg'),
           Image.network('https://www.scrolldroll.com/wp-content/uploads/2020/01/APJ-Abdul-Kalam-Quotes-10.jpg'),
