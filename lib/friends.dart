@@ -12,7 +12,7 @@ class Friends extends StatelessWidget {
         children: <Widget>[
           Image.network('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/l-m-mongomery-1561485794.png'),
           Image.network('https://parade.com/wp-content/uploads/2019/11/Best-Friend-Quotes-01-680x430.jpg'),
-          Image.network('),
+          Image.network('https://a2n9b7p7.stackpathcdn.com/wp-content/uploads/friendship_quotes_2.jpg'),
           Image.network('https://www.keepinspiring.me/wp-content/uploads/2020/04/a-sweet-friendship-refreshes-the-soul-proverbs27-quote-min.jpg'),
           Image.network('https://i.pinimg.com/originals/5e/63/46/5e6346ed2cb008456294abf7decc7848.jpg'),
           Image.network('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-friend-quotes-8-1557440291.jpg?crop=1xw:1xh;center,top&resize=480:*'),
