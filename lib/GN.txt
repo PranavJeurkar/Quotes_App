@@ -4,7 +4,7 @@ class APJ extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
       appBar: AppBar(
-        title: const Text('APJ Abdul Kalam Inspiring Quotes'),
+        title: const Text('BreakUp Quotes'),
       ),
       body: ListView(
         children: <Widget>[
