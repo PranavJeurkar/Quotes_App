@@ -10,8 +10,8 @@ class APJ extends StatelessWidget {
         children: <Widget>[
           Image.network('https://www.yourtango.com/sites/default/files/styles/header_slider/public/display_list/lovebreakupquotesmain.jpg?itok=Ua2zeD6v'),
           Image.network('https://www.yourtango.com/sites/default/files/image_blog/breakup-quotes-for-him.jpg'),
-          Image.network('https://www.theeducationmagazine.com/wp-content/uploads/2020/03/15.jpg'),
-          Image.network('https://www.scrolldroll.com/wp-content/uploads/2020/01/APJ-Abdul-Kalam-Quotes-10.jpg'),
+          Image.network('https://bayart.org/wp-content/uploads/2018/02/broken-quotes.jpg'),
+          Image.network('https://www.luvze.com/wp-content/uploads/2016/09/breakup-quotes.jpg'),
           Image.network('https://i.pinimg.com/originals/9e/28/21/9e2821e9cbd12438c4ca11b0b15a1de7.jpg'),
           Image.network('https://www.shineinfinite.in/wp-content/uploads/2018/07/Dr.-A.P.J-Abdul-Kalam-quote.jpg'),
           Image.network('https://i.pinimg.com/originals/f6/41/2d/f6412dd17f08e0507dbb271ee94d4642.jpg'),
