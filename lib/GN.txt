@@ -9,7 +9,7 @@ class APJ extends StatelessWidget {
       body: ListView(
         children: <Widget>[
           Image.network('https://www.yourtango.com/sites/default/files/styles/header_slider/public/display_list/lovebreakupquotesmain.jpg?itok=Ua2zeD6v'),
-          Image.network('https://static.india.com/wp-content/uploads/2017/07/Untitled-collage-25.jpg?impolicy=Medium_Resize&w=1200&h=800'),
+          Image.network('https://www.yourtango.com/sites/default/files/image_blog/breakup-quotes-for-him.jpg'),
           Image.network('https://www.theeducationmagazine.com/wp-content/uploads/2020/03/15.jpg'),
           Image.network('https://www.scrolldroll.com/wp-content/uploads/2020/01/APJ-Abdul-Kalam-Quotes-10.jpg'),
           Image.network('https://i.pinimg.com/originals/9e/28/21/9e2821e9cbd12438c4ca11b0b15a1de7.jpg'),
