@@ -17,7 +17,6 @@ class APJ extends StatelessWidget {
           Image.network('https://i.pinimg.com/originals/f6/41/2d/f6412dd17f08e0507dbb271ee94d4642.jpg'),
           Image.network('https://www.theeducationmagazine.com/wp-content/uploads/2020/03/7-5.jpg'),
           Image.network('https://images-na.ssl-images-amazon.com/images/I/51PkI16WEZL.jpg'),
-          Image.network('https://rukminim1.flixcart.com/image/352/352/jc0ttow0-1/poster/5/g/z/medium-pw-apj-abdul-kalam-quote-wall-poster-13-19-inches-matte-original-imafyng3f29fazcc.jpeg?q=70'),
         ],
       ),
 
