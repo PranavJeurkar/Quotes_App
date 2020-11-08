@@ -15,8 +15,6 @@ class APJ extends StatelessWidget {
           Image.network('https://media-cache-ec0.pinimg.com/736x/53/c7/89/53c78957bd3163f0285135cef888f7cb.jpg'),
           Image.network('https://www.shineinfinite.in/wp-content/uploads/2018/07/Dr.-A.P.J-Abdul-Kalam-quote.jpg'),
           Image.network('https://i.pinimg.com/originals/f6/41/2d/f6412dd17f08e0507dbb271ee94d4642.jpg'),
-          Image.network('https://www.theeducationmagazine.com/wp-content/uploads/2020/03/7-5.jpg'),
-          Image.network('https://images-na.ssl-images-amazon.com/images/I/51PkI16WEZL.jpg'),
         ],
       ),
 
