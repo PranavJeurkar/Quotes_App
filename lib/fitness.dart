@@ -25,6 +25,7 @@ class Fitness extends StatelessWidget {
           Image.network('https://media1.popsugar-assets.com/files/thumbor/s1907_QVvPV1Cba4G-7vzula3Yc/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2017/11/02/661/n/1922729/0c10be4e59fb311496e4e9.30463463_edit_img_cover_file_44210841_1509631957/i/Motivational-Gym-Quotes.jpg'),
           Image.network('https://ae01.alicdn.com/kf/HTB1iTuocjgy_uJjSZPxq6ynNpXaV/Powerful-Motivational-Fitness-Quotes-Gym-Wall-Stickers-wall-decals-vinyl-poster-Ability-Motivation-Attitude-Gym-Decoration.jpg_q50.jpg'),
           Image.network('https://media1.popsugar-assets.com/files/thumbor/CCDBrv0yGna0VqWWzLw549tL6EU/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2018/01/03/326/n/1922398/addurlZOqzdw/i/Inspirational-Fitness-Quotes.jpg'),
+          Image.network('https://media1.popsugar-assets.com/files/thumbor/CCDBrv0yGna0VqWWzLw549tL6EU/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2018/01/03/326/n/1922398/addurlZOqzdw/i/Inspirational-Fitness-Quotes.jpg'),
         ],
       ),
     );
