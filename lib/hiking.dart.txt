@@ -10,7 +10,7 @@ class Inspirational extends StatelessWidget {
       body: ListView(
         children: <Widget>[
           Image.network('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hiking-quotes-2-1563904113.jpg'),
-          Image.network('https://i.pinimg.com/originals/56/96/ef/5696efb8900f65921a4fbb7a154c6ddc.png'),
+          Image.network('https://i.pinimg.com/originals/a5/92/a9/a592a9c016a3afa41d8242a73ef59d8b.jpg'),
           Image.network('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/inspirational-quotes-c-s-lewis-1562000220.png'),
           Image.network('https://wp-en.oberlo.com/wp-content/uploads/2019/11/positive-motivational-quotes.jpg'),
           Image.network('https://www.success.com/wp-content/uploads/legacy/sites/default/files/new2.jpg'),
