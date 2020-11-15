@@ -11,7 +11,7 @@ class Inspirational extends StatelessWidget {
         children: <Widget>[
           Image.network('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hiking-quotes-2-1563904113.jpg'),
           Image.network('https://i.pinimg.com/originals/a5/92/a9/a592a9c016a3afa41d8242a73ef59d8b.jpg'),
-          Image.network('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/inspirational-quotes-c-s-lewis-1562000220.png'),
+          Image.network('https://www.hillwalktours.com/walking-hiking-blog/wp-content/uploads/2017/02/Inspirational-Hiking-Quote-Wander-Where-The-Wifi-Is-Weak.jpg'),
           Image.network('https://wp-en.oberlo.com/wp-content/uploads/2019/11/positive-motivational-quotes.jpg'),
           Image.network('https://www.success.com/wp-content/uploads/legacy/sites/default/files/new2.jpg'),
           Image.network('https://i.pinimg.com/736x/bb/ee/20/bbee2075bb8b4118dcb33cb1712cca46.jpg'),
