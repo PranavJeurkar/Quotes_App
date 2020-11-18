@@ -15,7 +15,7 @@ class Inspirational extends StatelessWidget {
           Image.network('https://cdn.shopify.com/s/files/1/0384/0233/files/thousandmiles_quote_grande.png?v=1502733878'),
           Image.network('https://www.thewanderlustwithin.com/wp-content/uploads/2019/12/Hiking-Quotes-78-683x1024.jpg'),
           Image.network('https://cdn.runrepeat.com/storage/uploads/research/121%20Hiking%20Quotes/3-John-Muir-Quote.png'),
-          Image.network(''),
+          Image.network('https://media.canariaways.com/9ab1a345-untitled-design-8.jpg'),
           Image.network('https://i0.wp.com/www.success.com/wp-content/uploads/legacy/sites/default/files/1_16.jpg'),
           Image.network('https://kbimages1-a.akamaihd.net/5d7fadde-7989-4b7e-9354-3b8e505b901b/1200/1200/False/inspirational-alphabet-inspirational-quotes-and-ideals.jpg'),
           Image.network('https://image.shutterstock.com/image-photo/quote-motivational-quotes-inspirational-600w-1446953279.jpg'),
