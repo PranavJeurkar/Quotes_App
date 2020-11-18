@@ -5,7 +5,7 @@ class Adventure extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Adventure Quotes'),
+        title: const Text(' Adventure Quotes '),
       ),
       body: ListView(
         children: <Widget>[
