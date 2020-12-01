@@ -9,7 +9,7 @@ class Adventure extends StatelessWidget {
       ),
       body: ListView(
         children: <Widget>[
-          Image.network('https://www.keepinspiring.me/wp-content/uploads/2020/01/adventure-quotes-2-min.jpg'),
+          Image.network(''),
           Image.network('https://www.projectuntethered.com/wp-content/uploads/2019/06/Two-roads-diverged-in-a-wood-and-I-%E2%80%93-I-took-the-one-less-traveled-by-and-that-has-made-all-the-difference-683x1024.jpg'),
           Image.network('https://passionsandplaces.com/wp-content/uploads/2020/01/beautiful-places-travel-quote.jpg'),
           Image.network('https://globalcastaway.com/wp-content/uploads/2019/11/adventure-quotes-jobs-fill-your-pockets-but-adventure-fill-your-soul.jpg'),
