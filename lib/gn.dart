@@ -10,7 +10,7 @@ class Adventure extends StatelessWidget {
       body: ListView(
         children: <Widget>[
           Image.network(''),
-          Image.network('https://www.projectuntethered.com/wp-content/uploads/2019/06/Two-roads-diverged-in-a-wood-and-I-%E2%80%93-I-took-the-one-less-traveled-by-and-that-has-made-all-the-difference-683x1024.jpg'),
+          Image.network(''),
           Image.network('https://passionsandplaces.com/wp-content/uploads/2020/01/beautiful-places-travel-quote.jpg'),
           Image.network('https://globalcastaway.com/wp-content/uploads/2019/11/adventure-quotes-jobs-fill-your-pockets-but-adventure-fill-your-soul.jpg'),
           Image.network('https://images.squarespace-cdn.com/content/v1/5beb0a44f2e6b1113f9519d9/1579603488689-2EUSFEXPTVO2VTJ2H9MM/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIeQMKeWYgwh6Mn73n2eZmZLHHpcPIxgL2SArp_rN2M_AKMshLAGzx4R3EDFOm1kBS/Couple+travel+quotes+adventure.jpg'),
