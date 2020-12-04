@@ -15,7 +15,7 @@ class Adventure extends StatelessWidget {
           Image.network(''),
           Image.network(''),
           Image.network(''),
-          Image.network('https://i.pinimg.com/736x/2d/75/a8/2d75a81fd31860976778621b75b6023f.jpg'),
+          Image.network(''),
           Image.network('https://askforadventure.com/wp-content/uploads/2018/08/inspirational-quote-1-683x1024.jpg'),
           Image.network('https://bayart.org/wp-content/uploads/2018/11/adventure-quotes.jpg'),
           Image.network('https://travelwiththesmile.com/wp-content/uploads/2018/04/adventure-quotes-Travel-with-the-Smile-60-683x1024.jpg'),
