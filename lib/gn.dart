@@ -14,7 +14,7 @@ class Adventure extends StatelessWidget {
           Image.network(''),
           Image.network(''),
           Image.network(''),
-          Image.network('https://img.picturequotes.com/2/5/4118/the-biggest-adventure-you-can-take-is-to-live-the-life-of-your-dreams-quote-1.jpg'),
+          Image.network(''),
           Image.network('https://i.pinimg.com/736x/2d/75/a8/2d75a81fd31860976778621b75b6023f.jpg'),
           Image.network('https://askforadventure.com/wp-content/uploads/2018/08/inspirational-quote-1-683x1024.jpg'),
           Image.network('https://bayart.org/wp-content/uploads/2018/11/adventure-quotes.jpg'),
